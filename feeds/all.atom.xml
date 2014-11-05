@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Hotline Norrmalm</title><link href="http://hotlinenorrmalm.com/" rel="alternate"></link><link href="http://hotlinenorrmalm.com/feeds/all.atom.xml" rel="self"></link><id>http://hotlinenorrmalm.com/</id><updated>2014-11-05T16:00:00+00:00</updated><entry><title>Should I get an e-book reader?</title><link href="http://hotlinenorrmalm.com/2014/11/05/should-i-get-an-ebook-reader/" rel="alternate"></link><updated>2014-11-05T16:00:00+00:00</updated><author><name>Daniel Jonsson</name></author><id>tag:hotlinenorrmalm.com,2014-11-05:2014/11/05/should-i-get-an-ebook-reader/</id><summary type="html">&lt;p&gt;I currently possess a Nexus 7 Android tablet from 2012 with a 7&amp;quot; display &lt;a class="footnote-reference" href="#id38" id="id1"&gt;[1]&lt;/a&gt;,
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Hotline Norrmalm</title><link href="http://hotlinenorrmalm.com/" rel="alternate"></link><link href="http://hotlinenorrmalm.com/feeds/all.atom.xml" rel="self"></link><id>http://hotlinenorrmalm.com/</id><updated>2014-11-05T16:00:00+00:00</updated><entry><title>Should I get an e-book reader?</title><link href="http://hotlinenorrmalm.com/2014/11/05/should-i-get-an-ebook-reader/" rel="alternate"></link><updated>2014-11-05T16:00:00+00:00</updated><author><name>Daniel Jonsson</name></author><id>tag:hotlinenorrmalm.com,2014-11-05:2014/11/05/should-i-get-an-ebook-reader/</id><summary type="html">&lt;p&gt;I currently possess a Nexus 7 Android tablet from 2012 with a 7&amp;quot; display &lt;a class="footnote-reference" href="#id39" id="id1"&gt;[1]&lt;/a&gt;,
 which I do most of my reading on. It works great for reading, since it handles
-EBUPs and PDFs well through the applications Cool Reader &lt;a class="footnote-reference" href="#id39" id="id2"&gt;[2]&lt;/a&gt; and MuPDF &lt;a class="footnote-reference" href="#id40" id="id3"&gt;[3]&lt;/a&gt;
+EBUPs and PDFs well through the applications Cool Reader &lt;a class="footnote-reference" href="#id40" id="id2"&gt;[2]&lt;/a&gt; and MuPDF &lt;a class="footnote-reference" href="#id41" id="id3"&gt;[3]&lt;/a&gt;
 respectively.&lt;/p&gt;
 &lt;p&gt;However, my Android tablet has an LCD display, which is not as pleasant to read
-on as an e-ink display &lt;a class="footnote-reference" href="#id41" id="id4"&gt;[4]&lt;/a&gt;. E-ink mimics paper by not using any back light for
+on as an e-ink display &lt;a class="footnote-reference" href="#id42" id="id4"&gt;[4]&lt;/a&gt;. E-ink mimics paper by not using any back light for
 the display. E-ink allows you to read outside without any glare, just as you
-can with regular paper &lt;a class="footnote-reference" href="#id42" id="id5"&gt;[5]&lt;/a&gt;. When reading in the dark it also does not cause
+can with regular paper &lt;a class="footnote-reference" href="#id43" id="id5"&gt;[5]&lt;/a&gt;. When reading in the dark it also does not cause
 any eye strain, since it does not behave like a bright flashlight as an LCD
-display does &lt;a class="footnote-reference" href="#id43" id="id6"&gt;[6]&lt;/a&gt;. However, to read in the dark the e-reader needs to have
+display does &lt;a class="footnote-reference" href="#id44" id="id6"&gt;[6]&lt;/a&gt;. However, to read in the dark the e-reader needs to have
 buit-in front light or you need to have a bed lamp.&lt;/p&gt;
 &lt;div class="section" id="kindle-paperwhite-2-or-kobo-aura-hd"&gt;
 &lt;h2&gt;Kindle Paperwhite 2 or Kobo Aura HD?&lt;/h2&gt;
-&lt;p&gt;Amazon's Kindle Paperwhite 2 &lt;a class="footnote-reference" href="#id44" id="id7"&gt;[7]&lt;/a&gt; offers a 6&amp;quot; display with a resolution of
+&lt;p&gt;Amazon's Kindle Paperwhite 2 &lt;a class="footnote-reference" href="#id45" id="id7"&gt;[7]&lt;/a&gt; offers a 6&amp;quot; display with a resolution of
 768x1024 pixels, resulting in 212 PPI. Under the hood it has a 1 GHz processor
-and 256 MB of RAM &lt;a class="footnote-reference" href="#id45" id="id8"&gt;[8]&lt;/a&gt;. However, it supports PDF but not EPUB out of the box
-&lt;a class="footnote-reference" href="#id46" id="id9"&gt;[9]&lt;/a&gt;.&lt;/p&gt;
+and 256 MB of RAM &lt;a class="footnote-reference" href="#id46" id="id8"&gt;[8]&lt;/a&gt;. However, it supports PDF but not EPUB out of the box
+&lt;a class="footnote-reference" href="#id47" id="id9"&gt;[9]&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Kobo's Kobo Aura HD has a slightly larger display – 6.8&amp;quot; – and a resolution of
 1080x1440 pixles, resulting in a 265 PPI &lt;a class="footnote-reference" href="#b" id="id10"&gt;[10]&lt;/a&gt;. It also has a 1 GHz processor
-&lt;a class="footnote-reference" href="#b" id="id11"&gt;[10]&lt;/a&gt; and 1 GB of RAM &lt;a class="footnote-reference" href="#id47" id="id12"&gt;[11]&lt;/a&gt;. It supports both EPUB and PDF &lt;a class="footnote-reference" href="#b" id="id13"&gt;[10]&lt;/a&gt;.&lt;/p&gt;
+&lt;a class="footnote-reference" href="#b" id="id11"&gt;[10]&lt;/a&gt; and 1 GB of RAM &lt;a class="footnote-reference" href="#id48" id="id12"&gt;[11]&lt;/a&gt;. It supports both EPUB and PDF &lt;a class="footnote-reference" href="#b" id="id13"&gt;[10]&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Kobo Aura HD has superior hardware, and it is also not hooked into a
 proprietary service as tightly as Amazon's Kindles. So if I had to chose
 between one of them, I would probably pick Kobo Aura HD since they cost about
 the same (1500 SEK) here in Sweden.&lt;/p&gt;
 &lt;p&gt;For more discussions and comparisons between different e-book readers, see
-MobileRead's forum &amp;quot;Which one should I buy?&amp;quot; &lt;a class="footnote-reference" href="#id48" id="id14"&gt;[12]&lt;/a&gt;.&lt;/p&gt;
+MobileRead's forum &amp;quot;Which one should I buy?&amp;quot; &lt;a class="footnote-reference" href="#id49" id="id14"&gt;[12]&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="reading-pdfs-on-an-e-book-reader"&gt;
 &lt;h2&gt;Reading PDFs on an e-book reader&lt;/h2&gt;
 &lt;p&gt;The consensus on various websites seems to be that technical PDFs with graphs,
 math formulas, tables, pictures, programming code examples, two columns,
-information boxes, etc, do not work very well on e-ink e-book readers &lt;a class="footnote-reference" href="#id49" id="id15"&gt;[13]&lt;/a&gt; &lt;a class="footnote-reference" href="#id50" id="id16"&gt;[14]&lt;/a&gt;
-&lt;a class="footnote-reference" href="#id51" id="id17"&gt;[15]&lt;/a&gt; &lt;a class="footnote-reference" href="#id52" id="id18"&gt;[16]&lt;/a&gt; &lt;a class="footnote-reference" href="#id53" id="id19"&gt;[17]&lt;/a&gt; &lt;a class="footnote-reference" href="#a" id="id20"&gt;[18]&lt;/a&gt; &lt;a class="footnote-reference" href="#id54" id="id21"&gt;[19]&lt;/a&gt;. A regular tablet is instead often recommended for
-these types of books. It sure does not look like a very fluent and pleasant
+information boxes, etc, do not work very well on e-ink e-book readers &lt;a class="footnote-reference" href="#id50" id="id15"&gt;[13]&lt;/a&gt; &lt;a class="footnote-reference" href="#id51" id="id16"&gt;[14]&lt;/a&gt;
+&lt;a class="footnote-reference" href="#id52" id="id17"&gt;[15]&lt;/a&gt; &lt;a class="footnote-reference" href="#id53" id="id18"&gt;[16]&lt;/a&gt; &lt;a class="footnote-reference" href="#id54" id="id19"&gt;[17]&lt;/a&gt; &lt;a class="footnote-reference" href="#a" id="id20"&gt;[18]&lt;/a&gt; &lt;a class="footnote-reference" href="#id55" id="id21"&gt;[19]&lt;/a&gt; &lt;a class="footnote-reference" href="#id56" id="id22"&gt;[20]&lt;/a&gt;. A regular tablet is instead often recommended
+for these types of books. It sure does not look like a very fluent and pleasant
 experience to navigate and control large and complicated PDFs on an e-reader
-&lt;a class="footnote-reference" href="#id55" id="id22"&gt;[20]&lt;/a&gt; &lt;a class="footnote-reference" href="#id56" id="id23"&gt;[21]&lt;/a&gt; &lt;a class="footnote-reference" href="#id57" id="id24"&gt;[22]&lt;/a&gt; &lt;a class="footnote-reference" href="#id58" id="id25"&gt;[23]&lt;/a&gt;.  Furthermore, Paperwhite 2's small amount of RAM might
-cause PDFs to crash &lt;a class="footnote-reference" href="#id59" id="id26"&gt;[24]&lt;/a&gt;.&lt;/p&gt;
+&lt;a class="footnote-reference" href="#id57" id="id23"&gt;[21]&lt;/a&gt; &lt;a class="footnote-reference" href="#id58" id="id24"&gt;[22]&lt;/a&gt; &lt;a class="footnote-reference" href="#id59" id="id25"&gt;[23]&lt;/a&gt; &lt;a class="footnote-reference" href="#id60" id="id26"&gt;[24]&lt;/a&gt;.  Furthermore, Paperwhite 2's small amount of RAM might
+cause PDFs to crash &lt;a class="footnote-reference" href="#id61" id="id27"&gt;[25]&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="improve-the-reading-experience"&gt;
 &lt;h2&gt;Improve the reading experience&lt;/h2&gt;
 &lt;p&gt;It is possible to install additional software on a Kindle or Kobo to get more
 functionality out of the e-reader than it is shipped with. Kindle has to be
-jailbreaked for that to work though &lt;a class="footnote-reference" href="#id60" id="id27"&gt;[25]&lt;/a&gt;. One such piece of software is
-KOReader &lt;a class="footnote-reference" href="#id61" id="id28"&gt;[26]&lt;/a&gt; &lt;a class="footnote-reference" href="#id62" id="id29"&gt;[27]&lt;/a&gt; &lt;a class="footnote-reference" href="#id63" id="id30"&gt;[28]&lt;/a&gt;, which works on both Kindle and Kobo. KOReader
+jailbreaked for that to work though &lt;a class="footnote-reference" href="#id62" id="id28"&gt;[26]&lt;/a&gt;. One such piece of software is
+KOReader &lt;a class="footnote-reference" href="#id63" id="id29"&gt;[27]&lt;/a&gt; &lt;a class="footnote-reference" href="#id64" id="id30"&gt;[28]&lt;/a&gt; &lt;a class="footnote-reference" href="#id65" id="id31"&gt;[29]&lt;/a&gt;, which works on both Kindle and Kobo. KOReader
 supposedly is better at presenting PDFs than the built-in PDF reader on Kobo
-Aura HD &lt;a class="footnote-reference" href="#id64" id="id31"&gt;[29]&lt;/a&gt; &lt;a class="footnote-reference" href="#a" id="id32"&gt;[18]&lt;/a&gt;, the same is supposedly true on the Paperwhite 2 &lt;a class="footnote-reference" href="#c" id="id33"&gt;[30]&lt;/a&gt;. A
-few screenshots of KOReader can be seen on &lt;a class="footnote-reference" href="#id65" id="id34"&gt;[31]&lt;/a&gt; &lt;a class="footnote-reference" href="#id66" id="id35"&gt;[32]&lt;/a&gt; &lt;a class="footnote-reference" href="#c" id="id36"&gt;[30]&lt;/a&gt;.&lt;/p&gt;
+Aura HD &lt;a class="footnote-reference" href="#id66" id="id32"&gt;[30]&lt;/a&gt; &lt;a class="footnote-reference" href="#a" id="id33"&gt;[18]&lt;/a&gt;, the same is supposedly true on the Paperwhite 2 &lt;a class="footnote-reference" href="#c" id="id34"&gt;[31]&lt;/a&gt;. A
+few screenshots of KOReader can be seen on &lt;a class="footnote-reference" href="#id67" id="id35"&gt;[32]&lt;/a&gt; &lt;a class="footnote-reference" href="#id68" id="id36"&gt;[33]&lt;/a&gt; &lt;a class="footnote-reference" href="#c" id="id37"&gt;[31]&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;There is also a piece of software for the desktop that is able to optimize PDFs
-for e-readers called K2pdfopt &lt;a class="footnote-reference" href="#id67" id="id37"&gt;[33]&lt;/a&gt;, which might improve the reading experience.&lt;/p&gt;
+for e-readers called K2pdfopt &lt;a class="footnote-reference" href="#id69" id="id38"&gt;[34]&lt;/a&gt;, which might improve the reading experience.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="conclusion"&gt;
 &lt;h2&gt;Conclusion&lt;/h2&gt;
@@ -63,55 +63,55 @@ enough on it, or at least some of them. But I have not decided yet.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="references"&gt;
 &lt;h2&gt;References&lt;/h2&gt;
-&lt;table class="docutils footnote" frame="void" id="id38" rules="none"&gt;
+&lt;table class="docutils footnote" frame="void" id="id39" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id1"&gt;[1]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;Nexus 7 (2012 version)&amp;quot; &lt;a class="reference external" href="https://en.wikipedia.org/wiki/Nexus_7_(2012_version"&gt;https://en.wikipedia.org/wiki/Nexus_7_(2012_version&lt;/a&gt;)&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;table class="docutils footnote" frame="void" id="id39" rules="none"&gt;
+&lt;table class="docutils footnote" frame="void" id="id40" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id2"&gt;[2]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;Cool Reader&amp;quot; &lt;a class="reference external" href="https://f-droid.org/repository/browse/?fdfilter=cool+reader&amp;amp;fdid=org.coolreader"&gt;https://f-droid.org/repository/browse/?fdfilter=cool+reader&amp;amp;fdid=org.coolreader&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;table class="docutils footnote" frame="void" id="id40" rules="none"&gt;
+&lt;table class="docutils footnote" frame="void" id="id41" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id3"&gt;[3]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;MuPDF&amp;quot; &lt;a class="reference external" href="https://f-droid.org/repository/browse/?fdfilter=mupdf&amp;amp;fdid=com.artifex.mupdfdemo"&gt;https://f-droid.org/repository/browse/?fdfilter=mupdf&amp;amp;fdid=com.artifex.mupdfdemo&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;table class="docutils footnote" frame="void" id="id41" rules="none"&gt;
+&lt;table class="docutils footnote" frame="void" id="id42" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id4"&gt;[4]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;E Ink: Readable&amp;quot; &lt;a class="reference external" href="http://www.eink.com/readable.html"&gt;http://www.eink.com/readable.html&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;table class="docutils footnote" frame="void" id="id42" rules="none"&gt;
+&lt;table class="docutils footnote" frame="void" id="id43" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id5"&gt;[5]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;E Ink vs. LCD: Which Screen is Best For Reading?&amp;quot; (2014) &lt;a class="reference external" href="http://www.howtogeek.com/181577/e-ink-vs.-lcd-which-screen-is-best-for-reading/"&gt;http://www.howtogeek.com/181577/e-ink-vs.-lcd-which-screen-is-best-for-reading/&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;table class="docutils footnote" frame="void" id="id43" rules="none"&gt;
+&lt;table class="docutils footnote" frame="void" id="id44" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id6"&gt;[6]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;Kindle Paperwhite&amp;quot; &lt;a class="reference external" href="http://www.amazon.com/dp/B00JG8GBDM"&gt;http://www.amazon.com/dp/B00JG8GBDM&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;table class="docutils footnote" frame="void" id="id44" rules="none"&gt;
+&lt;table class="docutils footnote" frame="void" id="id45" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id7"&gt;[7]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;Amazon Kindle Sixth generation&amp;quot; &lt;a class="reference external" href="https://en.wikipedia.org/wiki/Amazon_Kindle#Sixth_generation"&gt;https://en.wikipedia.org/wiki/Amazon_Kindle#Sixth_generation&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;table class="docutils footnote" frame="void" id="id45" rules="none"&gt;
+&lt;table class="docutils footnote" frame="void" id="id46" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id8"&gt;[8]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;Review of the Amazon Kindle Paperwhite 2&amp;quot; (2013) &lt;a class="reference external" href="http://goodereader.com/blog/electronic-readers/review-of-the-amazon-kindle-paperwhite-2"&gt;http://goodereader.com/blog/electronic-readers/review-of-the-amazon-kindle-paperwhite-2&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;table class="docutils footnote" frame="void" id="id46" rules="none"&gt;
+&lt;table class="docutils footnote" frame="void" id="id47" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id9"&gt;[9]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;Does Kindle Paperwhite support EPUB?&amp;quot; (2013) &lt;a class="reference external" href="http://www.amazon.com/forum/kindle?cdForum=Fx1D7SY3BVSESG&amp;amp;cdThread=Tx2YL42VABJSXM5"&gt;http://www.amazon.com/forum/kindle?cdForum=Fx1D7SY3BVSESG&amp;amp;cdThread=Tx2YL42VABJSXM5&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
@@ -123,43 +123,43 @@ enough on it, or at least some of them. But I have not decided yet.&lt;/p&gt;
 &lt;tr&gt;&lt;td class="label"&gt;[10]&lt;/td&gt;&lt;td&gt;&lt;em&gt;(&lt;a class="fn-backref" href="#id10"&gt;1&lt;/a&gt;, &lt;a class="fn-backref" href="#id11"&gt;2&lt;/a&gt;, &lt;a class="fn-backref" href="#id13"&gt;3&lt;/a&gt;)&lt;/em&gt; &amp;quot;Kobo Aura HD Technical Specs&amp;quot; &lt;a class="reference external" href="http://www.kobo.com/koboaurahd/techspecs/"&gt;http://www.kobo.com/koboaurahd/techspecs/&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;table class="docutils footnote" frame="void" id="id47" rules="none"&gt;
+&lt;table class="docutils footnote" frame="void" id="id48" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id12"&gt;[11]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;Kobo Aura HD and Kobo Aura Comparison&amp;quot; (2013) &lt;a class="reference external" href="http://goodereader.com/blog/good-e-reader-videos/kobo-aura-hd-and-kobo-aura-comparison"&gt;http://goodereader.com/blog/good-e-reader-videos/kobo-aura-hd-and-kobo-aura-comparison&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;table class="docutils footnote" frame="void" id="id48" rules="none"&gt;
+&lt;table class="docutils footnote" frame="void" id="id49" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id14"&gt;[12]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;Which one should I buy?&amp;quot; &lt;a class="reference external" href="http://www.mobileread.com/forums/forumdisplay.php?f=123"&gt;http://www.mobileread.com/forums/forumdisplay.php?f=123&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;table class="docutils footnote" frame="void" id="id49" rules="none"&gt;
+&lt;table class="docutils footnote" frame="void" id="id50" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id15"&gt;[13]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;which one for academic pdf?&amp;quot; (2013) &lt;a class="reference external" href="http://www.mobileread.com/forums/showthread.php?t=226160"&gt;http://www.mobileread.com/forums/showthread.php?t=226160&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;table class="docutils footnote" frame="void" id="id50" rules="none"&gt;
+&lt;table class="docutils footnote" frame="void" id="id51" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id16"&gt;[14]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;Reader For Research Papers (8.5x11 PDFs)&amp;quot; (2014) &lt;a class="reference external" href="http://www.mobileread.com/forums/showthread.php?t=246858"&gt;http://www.mobileread.com/forums/showthread.php?t=246858&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;table class="docutils footnote" frame="void" id="id51" rules="none"&gt;
+&lt;table class="docutils footnote" frame="void" id="id52" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id17"&gt;[15]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;PDF support in Kindle Paperwhite&amp;quot; (2013) &lt;a class="reference external" href="http://www.mobileread.com/forums/showthread.php?t=214887"&gt;http://www.mobileread.com/forums/showthread.php?t=214887&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;table class="docutils footnote" frame="void" id="id52" rules="none"&gt;
+&lt;table class="docutils footnote" frame="void" id="id53" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id18"&gt;[16]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;Kindle touch/paperwhite for reading pdfs?&amp;quot; (2013) &lt;a class="reference external" href="http://www.researchgate.net/post/Kindle_touch_paperwhite_for_reading_pdfs"&gt;http://www.researchgate.net/post/Kindle_touch_paperwhite_for_reading_pdfs&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;table class="docutils footnote" frame="void" id="id53" rules="none"&gt;
+&lt;table class="docutils footnote" frame="void" id="id54" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id19"&gt;[17]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;E-Reader for Medical textbooks in PDF and CHM?&amp;quot; (2014) &lt;a class="reference external" href="http://www.mobileread.com/forums/showthread.php?t=243721"&gt;http://www.mobileread.com/forums/showthread.php?t=243721&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
@@ -168,97 +168,103 @@ enough on it, or at least some of them. But I have not decided yet.&lt;/p&gt;
 &lt;table class="docutils footnote" frame="void" id="a" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td class="label"&gt;[18]&lt;/td&gt;&lt;td&gt;&lt;em&gt;(&lt;a class="fn-backref" href="#id20"&gt;1&lt;/a&gt;, &lt;a class="fn-backref" href="#id32"&gt;2&lt;/a&gt;)&lt;/em&gt; &amp;quot;Koreader functionality vs kindle for pdf&amp;quot; (2014) &lt;a class="reference external" href="http://www.mobileread.com/forums/showthread.php?t=241481"&gt;http://www.mobileread.com/forums/showthread.php?t=241481&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;table class="docutils footnote" frame="void" id="id54" rules="none"&gt;
-&lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
-&lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id21"&gt;[19]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;Is Kindle Paperwhite really worth it?&amp;quot; (2013) &lt;a class="reference external" href="https://news.ycombinator.com/item?id=6749593"&gt;https://news.ycombinator.com/item?id=6749593&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="label"&gt;[18]&lt;/td&gt;&lt;td&gt;&lt;em&gt;(&lt;a class="fn-backref" href="#id20"&gt;1&lt;/a&gt;, &lt;a class="fn-backref" href="#id33"&gt;2&lt;/a&gt;)&lt;/em&gt; &amp;quot;Koreader functionality vs kindle for pdf&amp;quot; (2014) &lt;a class="reference external" href="http://www.mobileread.com/forums/showthread.php?t=241481"&gt;http://www.mobileread.com/forums/showthread.php?t=241481&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;table class="docutils footnote" frame="void" id="id55" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id22"&gt;[20]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;Viewing PDFs with the Kindle 4 (Reading PDF eBooks)&amp;quot; (2011) &lt;a class="reference external" href="https://www.youtube.com/watch?v=MOhuIGIsqA4"&gt;https://www.youtube.com/watch?v=MOhuIGIsqA4&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id21"&gt;[19]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;Is Kindle Paperwhite really worth it?&amp;quot; (2013) &lt;a class="reference external" href="https://news.ycombinator.com/item?id=6749593"&gt;https://news.ycombinator.com/item?id=6749593&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;table class="docutils footnote" frame="void" id="id56" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id23"&gt;[21]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;Kindle Paperwhite 2 PDF Handling 5.4.3 Update&amp;quot; (2014) &lt;a class="reference external" href="https://www.youtube.com/watch?v=S3du42Zz_Po"&gt;https://www.youtube.com/watch?v=S3du42Zz_Po&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id22"&gt;[20]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;Is there any better 10&amp;quot; e-ink reader for pdfs than Onyx M96&amp;quot; (2014) &lt;a class="reference external" href="http://www.mobileread.com/forums/showthread.php?t=245039"&gt;http://www.mobileread.com/forums/showthread.php?t=245039&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;table class="docutils footnote" frame="void" id="id57" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id24"&gt;[22]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;Kindle Paperwhite vs KOBO Aura HD in PDF viewing&amp;quot; (2014) &lt;a class="reference external" href="https://www.youtube.com/watch?v=LK-1VY9x4DE"&gt;https://www.youtube.com/watch?v=LK-1VY9x4DE&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id23"&gt;[21]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;Viewing PDFs with the Kindle 4 (Reading PDF eBooks)&amp;quot; (2011) &lt;a class="reference external" href="https://www.youtube.com/watch?v=MOhuIGIsqA4"&gt;https://www.youtube.com/watch?v=MOhuIGIsqA4&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;table class="docutils footnote" frame="void" id="id58" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id25"&gt;[23]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;Kobo Aura HD vs Amazon Kindle Paperwhite full Comparison&amp;quot; (2013) &lt;a class="reference external" href="http://youtu.be/pPFfw2sNQ_c?t=12m1s"&gt;http://youtu.be/pPFfw2sNQ_c?t=12m1s&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id24"&gt;[22]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;Kindle Paperwhite 2 PDF Handling 5.4.3 Update&amp;quot; (2014) &lt;a class="reference external" href="https://www.youtube.com/watch?v=S3du42Zz_Po"&gt;https://www.youtube.com/watch?v=S3du42Zz_Po&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;table class="docutils footnote" frame="void" id="id59" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id26"&gt;[24]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;Amazon Kindle Paperwhite 2 PDF Experience&amp;quot; (2013) &lt;a class="reference external" href="http://youtu.be/EE681moULZ8?t=6m50s"&gt;http://youtu.be/EE681moULZ8?t=6m50s&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id25"&gt;[23]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;Kindle Paperwhite vs KOBO Aura HD in PDF viewing&amp;quot; (2014) &lt;a class="reference external" href="https://www.youtube.com/watch?v=LK-1VY9x4DE"&gt;https://www.youtube.com/watch?v=LK-1VY9x4DE&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;table class="docutils footnote" frame="void" id="id60" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id27"&gt;[25]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;Kindle Hacks Information&amp;quot; &lt;a class="reference external" href="http://wiki.mobileread.com/wiki/Kindle_Hacks_Information"&gt;http://wiki.mobileread.com/wiki/Kindle_Hacks_Information&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id26"&gt;[24]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;Kobo Aura HD vs Amazon Kindle Paperwhite full Comparison&amp;quot; (2013) &lt;a class="reference external" href="http://youtu.be/pPFfw2sNQ_c?t=12m1s"&gt;http://youtu.be/pPFfw2sNQ_c?t=12m1s&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;table class="docutils footnote" frame="void" id="id61" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id28"&gt;[26]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;KOReader&amp;quot; &lt;a class="reference external" href="https://github.com/koreader/koreader"&gt;https://github.com/koreader/koreader&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id27"&gt;[25]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;Amazon Kindle Paperwhite 2 PDF Experience&amp;quot; (2013) &lt;a class="reference external" href="http://youtu.be/EE681moULZ8?t=6m50s"&gt;http://youtu.be/EE681moULZ8?t=6m50s&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;table class="docutils footnote" frame="void" id="id62" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id29"&gt;[27]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;KOReader: a document reader for PDF, DJVU, EPUB, FB2, HTML, ... (GPLv3)&amp;quot; (2013) &lt;a class="reference external" href="http://www.mobileread.com/forums/showthread.php?t=209276"&gt;http://www.mobileread.com/forums/showthread.php?t=209276&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id28"&gt;[26]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;Kindle Hacks Information&amp;quot; &lt;a class="reference external" href="http://wiki.mobileread.com/wiki/Kindle_Hacks_Information"&gt;http://wiki.mobileread.com/wiki/Kindle_Hacks_Information&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;table class="docutils footnote" frame="void" id="id63" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id30"&gt;[28]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;Koreader running on Kobos (all of them, hopefully!)&amp;quot; (2013) &lt;a class="reference external" href="http://www.mobileread.com/forums/showthread.php?t=216960"&gt;http://www.mobileread.com/forums/showthread.php?t=216960&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id29"&gt;[27]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;KOReader&amp;quot; &lt;a class="reference external" href="https://github.com/koreader/koreader"&gt;https://github.com/koreader/koreader&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;table class="docutils footnote" frame="void" id="id64" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id31"&gt;[29]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;pdfs: koreader vs aura hd native reader&amp;quot; (2014) &lt;a class="reference external" href="http://www.mobileread.com/forums/showthread.php?t=244849"&gt;http://www.mobileread.com/forums/showthread.php?t=244849&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;table class="docutils footnote" frame="void" id="c" rules="none"&gt;
-&lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
-&lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td class="label"&gt;[30]&lt;/td&gt;&lt;td&gt;&lt;em&gt;(&lt;a class="fn-backref" href="#id33"&gt;1&lt;/a&gt;, &lt;a class="fn-backref" href="#id36"&gt;2&lt;/a&gt;)&lt;/em&gt; &amp;quot;KOreader: the best (so far) pdf reader on Kindle Paperwhite 2&amp;quot; (2014) &lt;a class="reference external" href="http://kwokleongtang.net/koreader-the-best-so-far-pdf-reader-on-kindle-paperwhite-2/"&gt;http://kwokleongtang.net/koreader-the-best-so-far-pdf-reader-on-kindle-paperwhite-2/&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id30"&gt;[28]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;KOReader: a document reader for PDF, DJVU, EPUB, FB2, HTML, ... (GPLv3)&amp;quot; (2013) &lt;a class="reference external" href="http://www.mobileread.com/forums/showthread.php?t=209276"&gt;http://www.mobileread.com/forums/showthread.php?t=209276&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;table class="docutils footnote" frame="void" id="id65" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id34"&gt;[31]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;KOReader Screenshots&amp;quot; &lt;a class="reference external" href="https://github.com/koreader/koreader/wiki/KOReader-Screenshots"&gt;https://github.com/koreader/koreader/wiki/KOReader-Screenshots&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id31"&gt;[29]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;Koreader running on Kobos (all of them, hopefully!)&amp;quot; (2013) &lt;a class="reference external" href="http://www.mobileread.com/forums/showthread.php?t=216960"&gt;http://www.mobileread.com/forums/showthread.php?t=216960&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;table class="docutils footnote" frame="void" id="id66" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id35"&gt;[32]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;KOReader Screenshots&amp;quot; &lt;a class="reference external" href="https://imgur.com/a/1NR7I/all"&gt;https://imgur.com/a/1NR7I/all&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id32"&gt;[30]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;pdfs: koreader vs aura hd native reader&amp;quot; (2014) &lt;a class="reference external" href="http://www.mobileread.com/forums/showthread.php?t=244849"&gt;http://www.mobileread.com/forums/showthread.php?t=244849&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table class="docutils footnote" frame="void" id="c" rules="none"&gt;
+&lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td class="label"&gt;[31]&lt;/td&gt;&lt;td&gt;&lt;em&gt;(&lt;a class="fn-backref" href="#id34"&gt;1&lt;/a&gt;, &lt;a class="fn-backref" href="#id37"&gt;2&lt;/a&gt;)&lt;/em&gt; &amp;quot;KOreader: the best (so far) pdf reader on Kindle Paperwhite 2&amp;quot; (2014) &lt;a class="reference external" href="http://kwokleongtang.net/koreader-the-best-so-far-pdf-reader-on-kindle-paperwhite-2/"&gt;http://kwokleongtang.net/koreader-the-best-so-far-pdf-reader-on-kindle-paperwhite-2/&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;table class="docutils footnote" frame="void" id="id67" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id37"&gt;[33]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;k2pdfopt: optimizes PDFs for viewing on e-readers&amp;quot; (2011) &lt;a class="reference external" href="http://www.mobileread.com/forums/showthread.php?t=144711"&gt;http://www.mobileread.com/forums/showthread.php?t=144711&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id35"&gt;[32]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;KOReader Screenshots&amp;quot; &lt;a class="reference external" href="https://github.com/koreader/koreader/wiki/KOReader-Screenshots"&gt;https://github.com/koreader/koreader/wiki/KOReader-Screenshots&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table class="docutils footnote" frame="void" id="id68" rules="none"&gt;
+&lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id36"&gt;[33]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;KOReader Screenshots&amp;quot; &lt;a class="reference external" href="https://imgur.com/a/1NR7I/all"&gt;https://imgur.com/a/1NR7I/all&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table class="docutils footnote" frame="void" id="id69" rules="none"&gt;
+&lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id38"&gt;[34]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&amp;quot;k2pdfopt: optimizes PDFs for viewing on e-readers&amp;quot; (2011) &lt;a class="reference external" href="http://www.mobileread.com/forums/showthread.php?t=144711"&gt;http://www.mobileread.com/forums/showthread.php?t=144711&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
